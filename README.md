@@ -14,7 +14,7 @@ APIs used:
 - [Involvement-API](https://www.notion.so/microverse/Involvement-API-869e60b5ad104603aa6db59e08150270)
 
 ## Live demo
-[See Project](https://simongrchevski.github.io/js-capstone/)
+[See Project](https://simongrchevski.github.io/RickAndMorty/)
 
 ## Built With
 
